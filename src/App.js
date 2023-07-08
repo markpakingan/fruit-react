@@ -1,15 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
-import Foods from './foods';
-import {choice} from './helpers';
+// import logo from './logo.svg';
+// import './App.css';
+// import fruits from './fruits';
+// import {getChoice, remove} from './helpers';
 
 
-function App() {
-  return (
-    <>
-      <choice />
-    </>
-  );
-}
+// let fruit = getChoice(fruits);
 
-export default App;
+// console.log(`I'd like one ${fruit}, please`);
+// console.log(`Here you go: ${fruit}, please`);
+// console.log(`Delicious! May I have another`);
+
+// let remaining = remove(fruit, fruits);
+
+// console.log(`I'm sorry, we're all out. We have ${remaining.length} left `);
+
+
+// export default App;
